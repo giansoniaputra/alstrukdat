@@ -16,5 +16,5 @@ class Fraction:
         return self.den
 
 x = Fraction(1, 2)
-print(x.getNum())  # Mengembalikan pembilang (numerator): 1
-print(x.getDen())  # Mengembalikan penyebut (denominator): 2
+print(f"Numerator:{x.getNum()}")  # Mengembalikan pembilang (numerator): 1
+print(f"Denominator:{x.getDen()}")  # Mengembalikan penyebut (denominator): 2
