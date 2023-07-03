@@ -25,3 +25,5 @@
 # print(mySet|yourSet)
 # print(mySet&yourSet)
 
+https://chat.openai.com/share/d326ddd8-268f-4a77-bc2b-daa2fab34f5f
+
