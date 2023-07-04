@@ -28,6 +28,6 @@ class Fraction:
 x = Fraction(1, 2)
 y = Fraction(3, 4)
 
-print(x - y)        # Operator pengurangan
-print(x * y)        # Operator perkalian
-print(x / y)        # Operator pembagian
+print(f"Hasil dari 1/2 - 3/4 = {x - y}")        # Operator pengurangan
+print(f"Hasil dari 1/2 * 3/4 = {x * y}")        # Operator perkalian
+print(f"Hasil dari 1/2 / 3/4 = {x / y}")        # Operator pembagian
