@@ -38,8 +38,9 @@ class Fraction:
 x = Fraction(1, 2)
 y = Fraction(3, 4)
 
-print(x > y)        # Operator lebih besar
-print(x >= y)       # Operator lebih besar atau sama dengan
-print(x < y)        # Operator kurang dari
-print(x <= y)       # Operator kurang dari atau sama dengan
-print(x != y)       # Operator tidak sama
+print("x adalah 1/2 dan y adalah 3/4")
+print(f"Apakah x lebih dari y = {x > y}")        # Operator lebih besar
+print(f"Apakah x lebih dari sama dengan dari y = {x >= y}")       # Operator lebih besar atau sama dengan
+print(f"Apakah x kurang dari y = {x < y}")        # Operator kurang dari
+print(f"Apakah x kurang sama dangan dari y = {x <= y}")       # Operator kurang dari atau sama dengan
+print(f"Apakah x tidak sama dengan y = {x != y}")       # Operator tidak sama
